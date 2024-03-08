@@ -1,0 +1,23 @@
+<p></p>
+<style>
+  *{
+    background:#D5954D;
+  }
+  body{
+    width:80px;
+    height:190px;
+    border: 20px solid #fff;
+    border-radius: 100px;
+    margin: 160px 140px;
+    box-shadow: 0 0 0 20px #D5954D, 0 0 0 40px #fff;
+  }
+  p{
+    position:fixed;
+    height:160px;
+    width: 40px;
+    background:#fff;
+    border-radius:100px;
+    margin:20px;
+    box-shadow: 0 -260px #fff;
+  }
+</style>
