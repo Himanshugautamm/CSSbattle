@@ -1,0 +1,19 @@
+<p></p>
+<style>
+   *{
+     background:#712B2B;
+   }
+  body{
+    background:linear-gradient(0deg, #712B2B 30%, #D04A4C 0 72%,#F79091 0);
+    margin: 45 56 40;
+    clip-path:polygon(0% 100%, 100% 100%, 50% 0);
+  }
+  p{
+    position: fixed;
+    background:#F79091;
+    height:60px;
+    width:80px;
+    margin:150px 104px;
+    clip-path:polygon(0% 0%, 99.6% 0%, 50% 99.6%);
+  }
+</style>
