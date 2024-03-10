@@ -1,0 +1,22 @@
+<p></p>
+<style>
+  *
+  {
+    background:#F48B26;
+  }
+  body
+  {
+    margin: 120 110 0;
+    background:#fff;
+  }
+  p
+  {
+    position: fixed;
+    height:60px;
+    width:60px;
+    background:#fff;
+    border-radius:100px;
+    margin:-30 60;
+    box-shadow: 0px 0px 0 20px #F48B26, 0px -65px 0 -15px #fff;
+  }
+</style>
