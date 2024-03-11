@@ -1,0 +1,19 @@
+<p><p a><p b><p c>
+<style>
+*
+  {
+    background:#FAD3E5;
+  }
+  p
+  {
+    width:100px;
+    height:20px;
+    border: solid 20px #8B0051;
+    margin:80 130 160;
+  }
+  [a]
+  {
+   width:190px;
+    margin:90px 130px;
+  }
+</style>
