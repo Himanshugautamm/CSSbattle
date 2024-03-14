@@ -1,0 +1,27 @@
+<div class="triangle up"></div>
+<div class="triangle down"></div>
+<style>
+  *{
+    background:#7E2926;
+  }
+  body{
+    margin: 0 125;
+    background:linear-gradient(90deg,#D2934B 50%,#DEB365 0 30%);
+  }
+  .triangle{
+    position:relative;
+    width:0;
+    height:0;
+    border-left: 75px solid #D2934B;
+    border-right:75px solid #DEB365;
+  }
+  .up{
+    border-top:100px solid #FEFF92;
+  }
+  .down
+  {
+    margin:101px 0px;
+    border-bottom: 100px solid #FEFF92;
+  }
+
+</style>
