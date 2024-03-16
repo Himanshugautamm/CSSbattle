@@ -1,0 +1,31 @@
+<div class ="box box1"></div>
+<div class ="box box2"></div>
+<style>
+ *{
+   background:#EAEB8D;
+ }
+  body{
+    margin: 150px 200px 50px 100px;
+  }
+  .box {
+    height:50px;
+    width:50px;
+    background: #F9B125;
+  }
+  .box1{
+    box-shadow: 50px 0 #F48B26, 0 50px #F48B26, 50px 50px 0 -10px #EAEB8D, 50px 50px #FECE22;
+  }
+  .box2
+  {
+    margin: -150px 150px;
+    box-shadow: 0 50px #F48B26, -50px 50px #F9B125, -50px 0 0 -10px #EAEB8D, -50px 0 #FECE22;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
