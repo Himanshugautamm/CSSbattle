@@ -1,0 +1,26 @@
+<p></p a>
+<style>
+  *{
+    background:#301E53;
+  }
+  body{
+  margin:75 50;
+  width: 220; 
+  height: 0; 
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-top: 40px solid #766D94;
+  }
+  p{
+    height:50px;
+    width:70px;
+    margin:10 -15;
+    background:#A6A0BE;
+    color:#A6A0BE;
+    box-shadow:80px 0px, 100px 0, 180px 0;
+  }
+  [a]
+  {
+  
+  }
+</style>
