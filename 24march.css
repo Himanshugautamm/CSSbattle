@@ -1,0 +1,29 @@
+<p></p>
+<div class="tr"></div>
+<style>
+  *{
+    background:#6C1715;
+  }
+  body{
+    border: 20px solid #C8393A;
+    margin: 40 150 160;
+    border-radius:100px;
+  }
+  p{
+    position:fixed;
+    height:50;
+    width:20;
+    background:#C8393A;
+    margin: 70 20;
+  }
+  .tr{
+    position: fixed;
+    margin:120 -45;
+    width:0;
+    height:0;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-top: 80px solid #C8393A;
+  }
+  
+</style>
