@@ -1,0 +1,21 @@
+<p><p a><p b>
+<style>
+  *{
+    background:#504371;
+  }
+  p{
+    border: 30px solid #A6A0BE;
+    height:150px;
+    width: 200px;
+    margin:-53;
+  }
+  [a]{
+    margin: 23 177;
+  }
+  [b]{
+    height: 90;
+    width: 90;
+    margin:-293 117;
+    rotate:45deg;
+  }
+</style>
