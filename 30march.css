@@ -1,0 +1,28 @@
+<p></p>
+<style>
+  *{
+    background:#DBBEDF;
+  }
+  body{
+    background:#81008F;
+    margin:90 155;
+    color:#81008F;
+    box-shadow:-85px 115px 0 -5px,85px -115px 0 -5px;
+  }
+  p{
+    position:fixed;
+    height:20px;
+    width:80px;
+    background:#81008F;
+    margin:0 -80;
+    box-shadow:0px 40px, 0px 80px, 170px 20px , 170px 60px, 170px 100px;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
