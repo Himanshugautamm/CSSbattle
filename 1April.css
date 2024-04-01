@@ -1,0 +1,16 @@
+<p><p a></p>
+<style>
+*{background:#0A6190}
+  p{
+    height:200;
+    width:145;
+    background:#EFF8FE;
+    margin:50 47;
+    clip-path:polygon(14%40%, 48%40%, 100%0, 100%100%, 48% 60%,14%60%, 0%50%);
+  }
+  [a]{
+    scale: -1;
+    margin: -250 192;
+  }
+</style>
+
