@@ -1,0 +1,20 @@
+<p><p a>
+<style>
+ *{background:#90D3A6;}
+  p{
+    background:#194E29;
+    height:30;
+    width:210;
+    margin:50 87;
+    border-radius:100px;
+    color:#194E29;
+    box-shadow: 0px 170px, 150px 85px, -150px 85px;
+  }
+  [a]{
+    rotate:90deg;
+    box-shadow:0px 60px, 0px 120px;
+    width:200px;
+    margin: 55 152;
+  }
+  
+</style>
