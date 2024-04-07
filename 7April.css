@@ -1,0 +1,26 @@
+<p></p>
+<div class="dots"></div>
+<style>
+ *{background:#CCC9DB;}
+  body{background:#6F5AAF;
+      margin:90 60;
+      border-radius:25px;}
+  p{
+    position:fixed;
+    height:100px;
+    width:160px;
+    margin: 10 60;
+    background:#9D8EC9;
+    box-shadow: 0 0 0 10px #200043;
+  }
+  .dots{
+    position:fixed;
+    height:30px;
+    width:30px;
+    background:#200043;
+    border-radius:100px;
+    margin:10;
+    color:#200043;
+    box-shadow: 0 70px, 230px 70px, 230px 0px;
+  }
+</style>
