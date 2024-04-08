@@ -1,0 +1,20 @@
+<p></p>
+<style>
+ *{background:#010038;}
+  body{
+    background:#857DA1;
+    margin:0 335 205 35;
+    color:#857DA1;
+    box-shadow:75px 205px, 150px 0px, 225px 205px, 300px 0px;
+  }
+  p
+  {
+    position: fixed;
+    height:60px;
+    width:60px;
+    background:#857DA1;
+    margin:89.5 -15;
+    border-radius:50px;
+    box-shadow:75px 60px, 150px 0px, 225px 60px, 300px 0px;
+  }
+</style>
